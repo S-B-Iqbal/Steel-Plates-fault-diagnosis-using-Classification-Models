@@ -6,9 +6,10 @@
 
 ## Motivation:
 
-       A fault may be defined as an unacceptable difference of at least one characteristic property or attribute of a system from acceptable usual typical performance. The main purpose of any fault diagnosis system is to determine the location and occurrence time of possible faults on the basis of accessible data and knowledge about the performance of diagnosed processes. Manual fault diagnosis system is the traditional way where an expert with electronic meter tries to obtain some information about relevant operational equipment, check the maintenance manual and then diagnose the probable causes of a particular fault.  However, intelligent fault diagnosis techniques can provide quick and correct systems that help to keep product quality problems at bay and facilitates precautionary maintenance.
+
+A fault may be defined as an unacceptable difference of at least one characteristic property or attribute of a system from acceptable usual typical performance. The main purpose of any fault diagnosis system is to determine the location and occurrence time of possible faults on the basis of accessible data and knowledge about the performance of diagnosed processes. Manual fault diagnosis system is the traditional way where an expert with electronic meter tries to obtain some information about relevant operational equipment, check the maintenance manual and then diagnose the probable causes of a particular fault.  However, intelligent fault diagnosis techniques can provide quick and correct systems that help to keep product quality problems at bay and facilitates precautionary maintenance.    
         
-        This project evaluates the performances of several popular and effective data mining models to diagnose seven commonly occurring faults of the steel plate namely; Pastry, Z_Scratch, K_Scatch, Stains, Dirtiness, Bumps and Other_Faults.
+This project evaluates the performances of several popular and effective data mining models to diagnose seven commonly occurring faults of the steel plate namely; Pastry, Z_Scratch, K_Scatch, Stains, Dirtiness, Bumps and Other_Faults.
  
 
 ## Data Collection:
@@ -86,5 +87,5 @@ www.semeion.it
 
 ## Conclusion:
 
-    Several Classification techniques fair pretty well in predicting the defect-type.  Although data mining techniques are capable of extracting patterns and relationships hidden deep into large datasets, without the cooperation and feedback from the experts and professional, their results are useless. The patterns found via data mining techniques should be evaluated by professionals who have years of experience in Predicting steel plates faults. 
+Several Classification techniques fair pretty well in predicting the defect-type.  Although data mining techniques are capable of extracting patterns and relationships hidden deep into large datasets, without the cooperation and feedback from the experts and professional, their results are useless. The patterns found via data mining techniques should be evaluated by professionals who have years of experience in Predicting steel plates faults. 
     
