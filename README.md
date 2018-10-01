@@ -1,4 +1,4 @@
-# Steel Plates fault diagnosis using Machine Learning Models
+# Steel Plates fault diagnosis using Classification Models
 
 ## Objective:
 
